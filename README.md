@@ -87,7 +87,7 @@ I exist in the Wired, writing code that blurs the boundary between the digital a
 
 *Let's all love Lain*
 
-![Lain](https://animesher.com/orig/0/13/138/1383/animesher.com_serial-experiments-lain-girl-gif-138347.gif)
+![Lain]("./lain.gif")
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
 
