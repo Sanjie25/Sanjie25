@@ -75,8 +75,8 @@ I exist in the Wired, writing code that blurs the boundary between the digital a
 
 ```
 ┌──────────────────────────────────────────────────┐
-│ "The border between the two is not clear.       │
-│  What is created in the Wired can affect        │
+│ "The border between the two is not clear.        │
+│  What is created in the Wired can affect          │
 │  the real world."                                │
 └──────────────────────────────────────────────────┘
 ```
